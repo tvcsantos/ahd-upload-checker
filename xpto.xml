@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "properties.dtd">
+<properties>
+<property key="E:\Movies\Gone.In.Sixty.Seconds.2000.BluRay.1080p.DTS.x264.dvxa-BTT\Gone.In.Sixty.Seconds.2000.BluRay.1080p.DTS.x264.dvxa-BTT.mkv">
+<property key="General">
+<property key="Overall bit rate" value="16.1 Mbps"/>
+<property key="Format" value="Matroska"/>
+<property key="Duration" value="1h 57mn"/>
+<property key="File size" value="13.3 GiB"/>
+<property key="Encoded date" value="UTC 2008-08-29 11:58:48"/>
+<property key="Writing application" value="mkvmerge v2.2.0 ('Turn It On Again') built on Mar  4 2008 12:58:26"/>
+<property key="Complete name" value="E:\Movies\Gone.In.Sixty.Seconds.2000.BluRay.1080p.DTS.x264.dvxa-BTT\Gone.In.Sixty.Seconds.2000.BluRay.1080p.DTS.x264.dvxa-BTT.mkv"/>
+<property key="Writing library" value="libebml v0.7.7 + libmatroska v0.8.1"/>
+</property>
+<property key="Audio">
+<property key="Format" value="DTS"/>
+<property key="Format/Info" value="Digital Theater Systems"/>
+<property key="Resolution" value="24 bits"/>
+<property key="Codec ID" value="A_DTS"/>
+<property key="Stream size" value="1.24 GiB (9%)"/>
+<property key="Title" value="DTS 5.1"/>
+<property key="Sampling rate" value="48.0 KHz"/>
+<property key="Duration" value="1h 57mn"/>
+<property key="ID" value="2"/>
+<property key="Language" value="German"/>
+<property key="Bit rate" value="1 510 Kbps"/>
+<property key="Bit rate mode" value="Constant"/>
+<property key="Channel(s)" value="6 channels"/>
+<property key="Channel positions" value="Front: L C R, Surround: L R, LFE"/>
+</property>
+<property key="Audio">
+<property key="Format" value="DTS"/>
+<property key="Format/Info" value="Digital Theater Systems"/>
+<property key="Resolution" value="24 bits"/>
+<property key="Codec ID" value="A_DTS"/>
+<property key="Stream size" value="1.24 GiB (9%)"/>
+<property key="Title" value="DTS 5.1"/>
+<property key="Sampling rate" value="48.0 KHz"/>
+<property key="Duration" value="1h 57mn"/>
+<property key="ID" value="3"/>
+<property key="Language" value="English"/>
+<property key="Bit rate" value="1 510 Kbps"/>
+<property key="Bit rate mode" value="Constant"/>
+<property key="Channel(s)" value="6 channels"/>
+<property key="Channel positions" value="Front: L C R, Surround: L R, LFE"/>
+</property>
+<property key="Video">
+<property key="Format" value="AVC"/>
+<property key="Resolution" value="24 bits"/>
+<property key="Format/Info" value="Advanced Video Codec"/>
+<property key="Codec ID" value="V_MPEG4/ISO/AVC"/>
+<property key="Scan type" value="Progressive"/>
+<property key="Colorimetry" value="4:2:0"/>
+<property key="Height" value="816 pixels"/>
+<property key="Bits/(Pixel*Frame)" value="0.340"/>
+<property key="Encoding settings">
+<property key="nr" value="0"/>
+<property key="chroma_qp_offset" value="-2"/>
+<property key="8x8dct" value="1"/>
+<property key="b_pyramid" value="1"/>
+<property key="pb_ratio" value="1.30"/>
+<property key="psy_rd" value="1.0:0.0"/>
+<property key="rc" value="crf"/>
+<property key="crf" value="24.1"/>
+<property key="scenecut" value="40(pre)"/>
+<property key="brdo" value="1"/>
+<property key="deblock" value="1:-3:-3"/>
+<property key="qcomp" value="1.00"/>
+<property key="me_range" value="16"/>
+<property key="subme" value="7"/>
+<property key="threads" value="6"/>
+<property key="bframes" value="3"/>
+<property key="vbv_bufsize" value="30000"/>
+<property key="qpmax" value="51"/>
+<property key="b_bias" value="0"/>
+<property key="me" value="umh"/>
+<property key="cabac" value="1"/>
+<property key="bime" value="1"/>
+<property key="analyse" value="0x3:0x113"/>
+<property key="qpstep" value="4"/>
+<property key="direct" value="1"/>
+<property key="wpredb" value="1"/>
+<property key="keyint_min" value="25"/>
+<property key="aq" value="2:1.00"/>
+<property key="ip_ratio" value="1.40"/>
+<property key="keyint" value="250"/>
+<property key="mixed_ref" value="1"/>
+<property key="deadzone" value="9,6"/>
+<property key="chroma_me" value="1"/>
+<property key="ref" value="4"/>
+<property key="b_adapt" value="1"/>
+<property key="rceq" value="'blurCplx^(1-qComp)'"/>
+<property key="decimate" value="0"/>
+<property key="trellis" value="0"/>
+<property key="vbv_maxrate" value="38000"/>
+<property key="qpmin" value="10"/>
+<property key="cqm" value="0"/>
+<property key="mbaff" value="0"/>
+</property>
+<property key="Stream size" value="10.5 GiB (79%)"/>
+<property key="Format settings, ReFrames" value="4 frames"/>
+<property key="Frame rate" value="23.976 fps"/>
+<property key="Format settings, CABAC" value="Yes"/>
+<property key="Format profile" value="High@L4.1"/>
+<property key="Duration" value="1h 57mn"/>
+<property key="ID" value="1"/>
+<property key="Language" value="English"/>
+<property key="Muxing mode" value="Container profile=Unknown@4.1"/>
+<property key="Bit rate" value="12.8 Mbps"/>
+<property key="Width" value="1 920 pixels"/>
+<property key="Writing library" value="x264 core 61 r938M 9881ffd"/>
+<property key="Display aspect ratio" value="2.35:1"/>
+</property>
+</property>
+</properties>

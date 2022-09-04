@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="21" updatableVersionMin="" updatableVersionMax="" fileName="uploadchecker_windows_1_7.exe" newVersion="1.7" newMediaFileId="21" fileSize="15095808" bundledJre="" archive="false">
+    <comment />
+  </entry>
+  <entry targetMediaFileId="22" updatableVersionMin="" updatableVersionMax="" fileName="uploadchecker_macos_1_7.dmg" newVersion="1.7" newMediaFileId="22" fileSize="14753792" bundledJre="" archive="false">
+    <comment />
+  </entry>
+  <entry targetMediaFileId="24" updatableVersionMin="" updatableVersionMax="" fileName="uploadchecker_unix_1_7.sh" newVersion="1.7" newMediaFileId="24" fileSize="14346249" bundledJre="" archive="false">
+    <comment />
+  </entry>
+</updateDescriptor>
+
